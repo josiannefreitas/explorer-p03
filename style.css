@@ -174,12 +174,16 @@ footer {
   height: 60px;
   border-radius: 8px;
   border: 0;
-  background: #04D361;
-  color: #FFF;
+  background: #04d361;
+  color: #fff;
   font-family: Archivo;
   font-weight: 600;
 }
 
 .button:hover {
   background: #039142;
+}
+
+input:invalid {
+  border: 2px solid #ff1010;
 }
