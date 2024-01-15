@@ -6,9 +6,7 @@
 
 body {
   background: #d9d9d9;
-  background: #d9d9d9;
   font-family: 'Poppins', sans-serif;
-  color: #42d3ff;
   color: #42d3ff;
   font-size: 16px;
   line-height: 26px;
@@ -43,7 +41,6 @@ h1 {
 }
 
 form {
-  background: #fafafc;
   background: #fafafc;
   margin-top: 38px;
   padding: 64px;
